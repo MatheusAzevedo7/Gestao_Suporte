@@ -17,7 +17,7 @@ namespace Gestao_Suporte
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Entrar_Click(object sender, EventArgs e)
         {
 
         }

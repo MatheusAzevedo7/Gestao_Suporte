@@ -40,7 +40,7 @@
             this.btnEntrar.TabIndex = 0;
             this.btnEntrar.Text = "Entrar";
             this.btnEntrar.UseVisualStyleBackColor = true;
-            this.btnEntrar.Click += new System.EventHandler(this.button1_Click);
+            this.btnEntrar.Click += new System.EventHandler(this.Entrar_Click);
             // 
             // Form1
             // 
