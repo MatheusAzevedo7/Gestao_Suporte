@@ -17,9 +17,10 @@ namespace Gestao_Suporte
             InitializeComponent();
         }
 
-        private void Entrar_Click(object sender, EventArgs e)
+        private void btnEntrar_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Bem vindo ao sistema");
         }
     }
 }
+
